@@ -100,34 +100,33 @@ I bridge the gap between **Geospatial Science (GIS/Remote Sensing)**, **Artifici
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🗺️ <a href="https://github.com/hilmithehacker/URBANMIND">URBANMIND</a></h3>
-      <p><b>Urban Intelligence &amp; Spatial Planning Superapp</b></p>
-      <p>High-end web platform integrating urban morphology metrics, multi-criteria land use suitability, and regional infrastructure analytics.</p>
-      <p><code>TypeScript</code> • <code>Next.js</code> • <code>Geospatial Analytics</code></p>
+      <h3>📱 <a href="https://github.com/hilmithehacker/Pocket-GIS-Mobile">Pocket-GIS-Mobile</a></h3>
+      <p><b>Mobile-First Cartographic Layout Composer &amp; Spatial Inspection Engine</b></p>
+      <p>Progressive Web App (PWA) enabling planners to compose millimetric map layouts, audit cartographic standards (WCAG 2.2 AA), and export native QGIS Templates (<code>.qpt</code>) directly from mobile devices.</p>
+      <p><code>React 18</code> • <code>TypeScript</code> • <code>MapLibre GL</code> • <code>FastAPI</code> • <code>QGIS 3.40</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/hilmithehacker">QGIS AI "God Mode" Copilot</a></h3>
-      <p><b>Autonomous GIS Takeover &amp; Geoprocessing Bridge</b></p>
-      <p>Ultra-fast TCP Socket Bridge linking AI models directly into running QGIS desktop. Executes buffer, clip, Horn slope, and A4 print layout generation in milliseconds.</p>
-      <p><code>PyQGIS</code> • <code>MCP Protocol</code> • <code>Python</code> • <code>Cartography</code></p>
+      <h3>🏙️ <a href="https://github.com/hilmithehacker/URBANMIND">URBANMIND</a></h3>
+      <p><b>Urban Spatial Intelligence Platform &amp; Planning Studio</b></p>
+      <p>Enterprise urban analytics superapp integrating spatial morphology metrics, multi-criteria land use suitability, automated planning briefs, and deep research agents.</p>
+      <p><code>React</code> • <code>TypeScript</code> • <code>Express</code> • <code>LiteLLM RAG</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛰️ <a href="https://github.com/hilmithehacker">Satellite Cloud AI &amp; Telegram Bot</a></h3>
-      <p><b>On-Demand Remote Sensing via Chat</b></p>
-      <p>Autonomous bot pipeline discovering and extracting Copernicus DEM 30m, Sentinel-2 spectral indices (NDVI, MNDWI), and Land Surface Temperature (LST) with print-ready PDF reports.</p>
-      <p><code>Cloud GIS</code> • <code>Telegram Bot API</code> • <code>Node.js</code></p>
+      <h3>📊 <a href="https://github.com/hilmithehacker/Benefit-Cost-Analysis-Tools">Benefit-Cost Analysis Tools</a></h3>
+      <p><b>Infrastructure Feasibility &amp; KPBU/PPP Decision Engine</b></p>
+      <p>Interactive discounted cash flow modeling platform computing NPV, BCR, FIRR, and EIRR under availability payment and viability gap fund (VGF) schemes.</p>
+      <p><code>React 18</code> • <code>Tailwind CSS</code> • <code>Chart.js</code> • <code>Financial Modeling</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/hilmithehacker/Benefit-Cost-Analysis-Tools">Benefit-Cost Analysis Tools</a></h3>
-      <p><b>Spatial Economics Decision Support System</b></p>
-      <p>Computational tools designed for evaluating regional infrastructure feasibility, economic rate of return, and public investment prioritization.</p>
-      <p><code>Economic Modeling</code> • <code>Regional Planning</code></p>
+      <h3>⚡ <a href="https://github.com/hilmithehacker">QGIS AI "God Mode" Copilot</a></h3>
+      <p><b>Autonomous Desktop GIS Takeover &amp; Geoprocessing Bridge</b></p>
+      <p>Ultra-fast TCP Socket Bridge linking AI models directly into running QGIS desktop. Executes buffer, clip, Horn slope, and A4 print layout generation in milliseconds.</p>
+      <p><code>PyQGIS</code> • <code>MCP Protocol</code> • <code>Python</code> • <code>Cartography</code></p>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 💡 Engineering Principles
